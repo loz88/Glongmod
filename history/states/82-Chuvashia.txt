@@ -1,0 +1,22 @@
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		1645 1650 2431 2496 6156 7075 9519 13388 13397 13398 13425 13433 
+	}
+	manpower=1512671
+	buildings_max_level_factor=1.000
+		history={
+		owner = TTS
+		add_core_of = TTS
+
+		victory_points={
+		6156 25
+		}
+
+		victory_points={
+		1645 3
+		}
+	}
+	state_category=city
+}

@@ -1,0 +1,43 @@
+﻿capital = 1
+
+oob = "CRS_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = democratic_socialism  
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 0
+	totalism = 0
+	democratic_socialism = 75
+	liberalism = 0
+	glongism = 0
+	longism = 0
+	conservatism = 0
+	ultra-etatism = 0
+	national_populism  = 25
+	neooccultism = 0
+}
+
+create_country_leader = {
+	name = "Ruslan Izetov"
+	desc = "POLITICS_IZETOV_DESC"
+	picture = "Portrait_CRS_Ruslan_Izetov.dds"
+	ideology = neomarxism 
+	traits = {
+		
+	}
+}
+
+

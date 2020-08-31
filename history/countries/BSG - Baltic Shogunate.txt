@@ -1,0 +1,43 @@
+﻿capital = 330
+
+oob = "BSG_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = glongism  
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 0
+	totalism = 0
+	democratic_socialism = 0
+	liberalism = 0
+	glongism = 100
+	longism = 0
+	conservatism = 0
+	ultra-etatism = 0
+	national_populism  = 0
+	neooccultism = 0
+}
+
+create_country_leader = {
+	name = "Yuri Pogozhin"
+	desc = "POLITICS_POGOZHIN_DESC"
+	picture = "Portrait_BSG_Yuri_Pogozhin.dds"
+	ideology = techno-shogunate 
+	traits = {
+		
+	}
+}
+
+

@@ -1,0 +1,43 @@
+﻿capital = 13
+
+oob = "SOU_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = liberalism 
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 10
+	totalism = 15
+	democratic_socialism = 5
+	liberalism = 10
+	glongism = 10
+	longism = 5
+	conservatism = 10
+	ultra-etatism = 15
+	national_populism  = 10
+	neooccultism = 10
+}
+
+create_country_leader = {
+	name = "Grigory Lapin"
+	desc = "POLITICS_LAPIN_DESC"
+	picture = "Portrait_SOU_Grigory_Lapin.dds"
+	ideology = corporatocracy
+	traits = {
+		
+	}
+}
+
+

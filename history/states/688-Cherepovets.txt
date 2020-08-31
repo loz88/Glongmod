@@ -1,0 +1,15 @@
+
+state={
+	id=688
+	name="STATE_688"
+	provinces={
+		410 1792 1915 3019 3118 3348 4674 8305 9138 9302 9357 9529 9721 12378 12398 12479 12554 12577 12585 12612 18741 
+	}
+	manpower=315186
+	buildings_max_level_factor=1.000
+	history={
+		owner = TOT
+		
+		add_core_of = TOT
+	}
+}

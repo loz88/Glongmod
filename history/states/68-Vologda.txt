@@ -1,0 +1,18 @@
+
+state={
+	id=68
+	name="STATE_68"
+
+	history={
+		owner = RDC
+		add_core_of = RDC
+
+	}
+
+	provinces={
+		107 988 1520 1628 2330 2709 3227 3835 4128 4289 4453 5045 5205 5332 5950 6262 6409 7703 8947 9409 9712 10485 12626 12663 12681 12686 12709 12761 12880 
+	}
+	manpower=1334829
+	buildings_max_level_factor=1.000
+	state_category=city
+}

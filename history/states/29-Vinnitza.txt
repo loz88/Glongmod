@@ -1,0 +1,22 @@
+state={
+	id=29
+	name="STATE_29"
+	provinces={
+		447 1090 2474 3624 3767 6132 6599 6833 9256 9904 9999 13174 13202 13204 13232 13251 
+	}
+	manpower=1859541
+	buildings_max_level_factor=1.000
+	history={
+		owner = UKS
+		add_core_of = UKS
+			victory_points = {
+			2474 30
+		}
+			victory_points = {
+			13202 25
+		}
+			victory_points = {
+			6599 25
+		}
+	}
+}

@@ -1,0 +1,43 @@
+﻿capital = 88
+
+oob = "TMB_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = totalism
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 0
+	totalism = 70
+	democratic_socialism = 20
+	liberalism = 0
+	glongism = 0
+	longism = 0
+	conservatism = 0
+	ultra-etatism = 10
+	national_populism  = 0
+	neooccultism = 0
+}
+
+create_country_leader = {
+	name = "Pavel Zausalin"
+	desc = "POLITICS_ZAUSALIN_DESC"
+	picture = "Portrait_TMB_Pavel_Zausalin.dds"
+	ideology = soviet_socialism 
+	traits = {
+		
+	}
+}
+
+

@@ -1,0 +1,43 @@
+﻿capital = 541
+
+oob = "LKZ_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = longism 
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 0
+	totalism = 0
+	democratic_socialism = 0
+	liberalism = 0
+	glongism = 20
+	longism = 40
+	conservatism = 0
+	ultra-etatism = 0
+	national_populism  = 20
+	neooccultism = 20
+}
+
+create_country_leader = {
+	name = "Timofey Ulyanov"
+	desc = "POLITICS_ULYANOV_DESC"
+	picture = "Portrait_LKZ_Timofey_Ulyanov.dds"
+	ideology = paternalism 
+	traits = {
+		
+	}
+}
+
+

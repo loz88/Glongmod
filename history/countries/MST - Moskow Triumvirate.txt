@@ -1,0 +1,55 @@
+﻿capital = 104
+
+oob = "MST_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = glongism 
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 30
+	totalism = 30
+	democratic_socialism = 0
+	liberalism = 0
+	glongism = 10
+	longism = 0
+	conservatism = 0
+	ultra-etatism = 0
+	national_populism  = 30
+	neooccultism = 0
+}
+
+create_country_leader = {
+	name = "The Triumvirate"
+	desc = "POLITICS_TRIUMVIRATE_DESC"
+	picture = "Portrait_MST_The_Triumvirate.dds"
+	ideology = orthodox_glongism
+	traits = {
+		
+	}
+}
+
+# DIPLOMACY
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = TCH
+		autonomous_state = autonomy_integrated_puppet
+	}
+}

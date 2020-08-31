@@ -1,0 +1,25 @@
+state={
+	id=38
+	name="STATE_38"
+	provinces={
+		1082 8669 9210 9841 10144 10530 13275 13276 13278 13297 13300 13318 
+	}
+	manpower=1330196
+	buildings_max_level_factor=1.000
+	history={
+		owner = UKS
+		add_core_of = UKS
+			victory_points = {
+			1082 30
+		}
+			victory_points = {
+			13297 25
+		}
+			victory_points = {
+			13300 25
+		}
+			victory_points = {
+			13278 4
+		}
+	}
+}

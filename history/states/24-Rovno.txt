@@ -1,0 +1,19 @@
+state={
+	id=24
+	name="STATE_24"
+	provinces={
+		1202 1583 3274 4803 6602 6909 7037 7748 9882 10633 10743 12816 12870 12877 12905 
+	}
+	manpower=1218679
+	buildings_max_level_factor=1.000
+	history={
+		owner = GLC
+		add_core_of = GLC
+		victory_points = {
+			10743 30
+		}
+		victory_points = {
+			12816 25
+		}
+	}	
+}

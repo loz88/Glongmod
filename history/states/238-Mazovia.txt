@@ -1,0 +1,16 @@
+state={
+	id=238
+	name="STATE_238"
+	provinces={
+		1024 1495 2782 3507 3586 6050 6694 6709 7001 7056 8775 8790 9004 9247 12280 12287 12302 12311 12337 12350 12365 12474 12526 
+	}
+	manpower=11530000
+	buildings_max_level_factor=1.000
+	history={
+	victory_points = {
+		1024 2 
+	}
+	owner = IMP
+	add_core_of = IMP
+	}	
+}

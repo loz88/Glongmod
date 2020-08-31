@@ -1,0 +1,22 @@
+state={
+	id=33
+	name="STATE_33"
+	provinces={
+		975 3999 4719 5670 6272 7715 8987 9715 9849 10109 10793 13611 13625 13626 13632 13664 13669 13670 13678 13688 13689 13698 13708 13721 13727 13753 13762 13778 13809 13814 
+	}
+	manpower=1141209
+	buildings_max_level_factor=1.000
+	history={
+		owner = MAL
+		add_core_of = MAL
+		victory_points = {
+			13626 25
+		}
+		victory_points = {
+			9849 25
+		}
+		victory_points = {
+			13708 3
+		}
+	}	
+}

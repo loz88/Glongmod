@@ -1,0 +1,16 @@
+state={
+	id=223
+	name="STATE_223"
+	provinces={
+		4391 4532 7892 8232 9265 9795 9906 12600 12607 12720 12728 
+	}
+	manpower=4000000
+	buildings_max_level_factor=1.000
+	history={
+	victory_points = {
+		5653 2 }	
+	owner = IMP
+	add_core_of = IMP
+	}	
+	state_category = pastoral
+}

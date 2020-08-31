@@ -1,0 +1,14 @@
+state={
+	id=690
+	name="STATE_690"
+	provinces={
+		927 1005 1183 2969 4146 4209 4274 6841 7114 7351 8315 8694 9064 10182 10510 10815 12032 12082 12153 12202 18684 
+	}
+	manpower=267102
+	buildings_max_level_factor=1.000
+		history={
+		owner = TOT
+		
+		add_core_of = TOT
+	}
+}

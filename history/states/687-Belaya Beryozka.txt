@@ -1,0 +1,14 @@
+state={
+	id=687
+	name="STATE_687"
+	provinces={
+		5200 7109 8931 10008 12928 12991 12998 13010 13028 13050 13051 13071 13085 
+	}
+	manpower=1070122
+	buildings_max_level_factor=1.000
+	history={
+		owner = CBR
+		
+		add_core_of = CBR
+	}
+}

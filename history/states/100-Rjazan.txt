@@ -1,0 +1,21 @@
+
+state={
+	id=100
+	name="STATE_100"
+
+	history={
+		owner = TMB
+		add_core_of = TMB
+		victory_points = {
+			13162 35 
+		}
+
+	}
+
+	provinces={
+		238 936 1387 2724 2845 3478 3610 4538 6802 7423 8651 9008 9982 10987 11111 13162 13215 13229 13264 
+	}
+	manpower=1286352
+	buildings_max_level_factor=1.000
+	state_category=city
+}

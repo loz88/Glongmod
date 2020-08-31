@@ -1,0 +1,18 @@
+
+state={
+	id=66
+	name="STATE_66"
+
+	history={
+		owner = FUH
+		add_core_of = FUH
+
+	}
+
+	provinces={
+		271 1345 2681 2892 4148 5397 5635 6125 6800 6832 7469 8210 8271 8678 10121 10314 10509 11616 11661 11669 11701 11761 11812 11841 11857 11890 11911 11939 18721 18723 
+	}
+	manpower=682237
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

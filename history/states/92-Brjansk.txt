@@ -1,0 +1,24 @@
+
+state={
+	id=92
+	name="STATE_92"
+
+	history={
+		owner = TCH
+		add_core_of = TCH
+		victory_points = {
+			13045 30 
+		}
+		victory_points = {
+			13010 10 
+		}
+
+	}
+
+	provinces={
+		790 2804 3477 4827 6038 9174 10491 10679 13045 13073 13080 13109 13116 13178 13197 
+	}
+	manpower=1371456
+	buildings_max_level_factor=1.000
+	state_category=city
+}

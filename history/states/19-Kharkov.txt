@@ -1,0 +1,29 @@
+
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		1562 1688 1910 2251 2775 3470 3837 5317 6107 7205 7388 7756 8307 8496 10089 13465 13476 13499 13527 13528 13558 13562 13602 13613 
+	}
+	manpower=2828707
+	buildings_max_level_factor=1.000
+	history={
+		owner = NOV
+		add_core_of = NOV
+			victory_points = {
+			1910 40
+		}
+			victory_points = {
+			1688 25
+		}
+			victory_points = {
+			3470 25
+		}
+			victory_points = {
+			7388 3
+		}
+			victory_points = {
+			6107 25
+		}
+	}
+}

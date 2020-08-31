@@ -1,0 +1,28 @@
+state={
+	id=20
+	name="STATE_20"
+	provinces={
+		3759 4360 5769 6381 7773 9590 13187 13266 13304 13319 13326 13341 13342 13351 13380 13387 
+	}
+	manpower=1105227
+	buildings_max_level_factor=1.000
+	history={
+		owner = NOV
+		add_core_of = NOV
+			victory_points = {
+			13326 30
+		}
+			victory_points = {
+			7773 25
+		}
+			victory_points = {
+			6381 25
+		}
+			victory_points = {
+			5769 25
+		}
+			victory_points = {
+			13380 25
+		}
+	}	
+}

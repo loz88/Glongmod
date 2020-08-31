@@ -1,0 +1,43 @@
+﻿capital = 64
+
+oob = "TOT_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = totalism
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 1
+	totalism = 90
+	democratic_socialism = 3
+	liberalism = 0
+	glongism = 3
+	longism = 0
+	conservatism = 0
+	ultra-etatism = 0
+	national_populism  = 0
+	neooccultism = 3
+}
+
+create_country_leader = {
+	name = "Ilya Makarov"
+	desc = "POLITICS_MAKAROV_DESC"
+	picture = "Portrait_TOT_Ilya_Makarov.dds"
+	ideology = leftwing_nationalism 
+	traits = {
+		
+	}
+}
+
+

@@ -1,0 +1,25 @@
+state={
+	id=85
+	name="STATE_85"
+	provinces={
+		2550 2945 4037 4780 5331 5370 5551 5981 7732 8714 13282 13353 13405 13454 13482 13507 13508 13552 
+	}
+	manpower=1666116
+	buildings_max_level_factor=1.000
+			history={
+		owner = IZH
+		
+		add_core_of = IZH
+
+		victory_points={
+		5331 30
+		}
+		victory_points={
+		5551 3
+		}
+		victory_points={
+		13282 3
+		}		
+	}
+	state_category=city
+}

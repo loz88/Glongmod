@@ -1,0 +1,43 @@
+﻿capital = 30
+
+oob = "UKS_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = national_populism  
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 25
+	totalism = 0
+	democratic_socialism = 0
+	liberalism = 0
+	glongism = 0
+	longism = 0
+	conservatism = 0
+	ultra-etatism = 0
+	national_populism  = 75
+	neooccultism = 0
+}
+
+create_country_leader = {
+	name = "Julius Swarovsky"
+	desc = "POLITICS_SWAROVSKY_DESC"
+	picture = "Portrait_UKS_Julius_Swarovsky.dds"
+	ideology = national_democracy 
+	traits = {
+		
+	}
+}
+
+

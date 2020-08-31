@@ -1,0 +1,104 @@
+bookmarks = {
+	bookmark = {
+		name = "LHLBOOKMARK_NAME"
+		desc = "LHLBOOKMARK_DESC"
+		date = 2036.1.1.14
+		picture = "GFX_select_date_1939"
+		default_country = "NNG"
+
+		CBR = {
+			history = CBR_LHLBOOKMARK_DESC
+			ideology = accelerationism  
+			ideas={
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+		IZH = {
+			history = IZH_LHLBOOKMARK_DESC
+			ideology = ultra-etatism 
+			ideas={
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+		MST = {
+			history = MST_LHLBOOKMARK_DESC
+			ideology = glongism
+			ideas={
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+		RDC = {
+			history = RDC_LHLBOOKMARK_DESC
+			ideology = ultra-etatism
+			ideas={
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+		TMB = {
+			history = TMB_LHLBOOKMARK_DESC
+			ideology = totalism
+			ideas={
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+		TOT = {
+			history = TOT_LHLBOOKMARK_DESC
+			ideology = totalism
+			ideas={
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+		URS = {
+			history = URS_LHLBOOKMARK_DESC
+			ideology = national_populism 
+			ideas={
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+
+		"---"={
+			history = "OTHER_LHLBOOKMARK_DESC"
+		}
+
+		# Minors
+
+		CHS = {
+			minor = yes
+			history = "CHS_LHLBOOKMARK_DESC"
+			ideology = regressionism
+			ideas = {
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+
+	}
+}

@@ -1,0 +1,43 @@
+﻿capital = 77
+
+oob = "ANS_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = totalism
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 0
+	totalism = 86
+	democratic_socialism = 4
+	liberalism = 0
+	glongism = 0
+	longism = 0
+	conservatism = 0
+	ultra-etatism = 5
+	national_populism  = 5
+	neooccultism = 0
+}
+
+create_country_leader = {
+	name = "Fatima Ansari"
+	desc = "POLITICS_FATIMA_DESC"
+	picture = "Portrait_ANS_Fatima_Ansari.dds"
+	ideology = antirevisionism
+	traits = {
+		
+	}
+}
+
+

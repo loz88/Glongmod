@@ -1,0 +1,43 @@
+﻿capital = 69
+
+oob = "RDC_2036"
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.8
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = ultra-etatism
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	accelerationism  = 0
+	totalism = 0
+	democratic_socialism = 0
+	liberalism = 0
+	glongism = 3
+	longism = 0
+	conservatism = 1
+	ultra-etatism = 90
+	national_populism  = 3
+	neooccultism = 3
+}
+
+create_country_leader = {
+	name = "[REDACTED]"
+	desc = "POLITICS_REDACTED_DESC"
+	picture = "Portrait_RDC_REDACTED.dds"
+	ideology = police_state
+	traits = {
+		
+	}
+}
+
+

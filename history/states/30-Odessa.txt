@@ -1,0 +1,34 @@
+
+state={
+	id=30
+	name="STATE_30"
+
+	history={
+		owner = UKS
+		add_core_of = UKS
+			victory_points = {
+			13550 40
+		}
+			victory_points = {
+			13496 25
+		}
+			victory_points = {
+			13556 25
+		}
+			victory_points = {
+			9592 25
+		}
+			victory_points = {
+			13413 25
+		}
+			victory_points = {
+			13321 25
+		}
+	}
+
+	provinces={
+		768 2362 7048 8072 8594 8608 9592 10352 13286 13303 13321 13347 13362 13377 13383 13413 13458 13467 13489 13496 13516 13533 13534 13535 13550 13556 
+	}
+	manpower=2012302
+	buildings_max_level_factor=1.000
+}

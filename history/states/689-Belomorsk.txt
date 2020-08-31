@@ -1,0 +1,15 @@
+
+state={
+	id=689
+	name="STATE_689"
+	provinces={
+		442 4493 4866 6726 7238 8080 10111 10461 11997 12068 12281 18702 18735 18736 
+	}
+	manpower=31381
+	buildings_max_level_factor=1.000
+	history={
+		owner = RDC
+		
+		add_core_of = RDC
+	}
+}

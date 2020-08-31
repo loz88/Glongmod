@@ -1,0 +1,57 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_idea_slot_head_of_government"
+		textureFile = "gfx/interface/idea_slot_head_of_government.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_accelerationism_group"
+		texturefile = "gfx/interface/ideologies/accelerationism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_totalism_group"
+		texturefile = "gfx/interface/ideologies/totalism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_democratic_socialism_group"
+		texturefile = "gfx/interface/ideologies/democratic_socialism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_liberalism_group"
+		texturefile = "gfx/interface/ideologies/liberalism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_glongism_group"
+		texturefile = "gfx/interface/ideologies/glongism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_longism_group"
+		texturefile = "gfx/interface/ideologies/longism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_conservatism_group"
+		texturefile = "gfx/interface/ideologies/conservatism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_ultra-etatism_group"
+		texturefile = "gfx/interface/ideologies/ultra-etatism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_national_populism_group"
+		texturefile = "gfx/interface/ideologies/national_populism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_neooccultism_group"
+		texturefile = "gfx/interface/ideologies/neooccultism_group.dds"
+	}
+	
+}
